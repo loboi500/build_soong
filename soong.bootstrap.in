@@ -1,3 +1,3 @@
-BUILDDIR="@@BuildDir@@"
-SRCDIR_FROM_BUILDDIR="@@SrcDirFromBuildDir@@"
-PREBUILTOS="@@PrebuiltOS@@"
+version https://git-lfs.github.com/spec/v1
+oid sha256:459ab3fea4721ba3f3b20048d3aa8260ce5cd7301ca03c92876c400acef8e3d4
+size 98

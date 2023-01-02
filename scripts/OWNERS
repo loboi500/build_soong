@@ -1,6 +1,3 @@
-per-file system-clang-format,system-clang-format-2 = enh@google.com,smoreland@google.com
-per-file build-mainline-modules.sh = ngeoffray@google.com,paulduffin@google.com,mast@google.com
-per-file build-aml-prebuilts.sh = ngeoffray@google.com,paulduffin@google.com,mast@google.com
-per-file construct_context.py = ngeoffray@google.com,calin@google.com,mathieuc@google.com,skvadrik@google.com
-per-file conv_linker_config.py = kiyoungkim@google.com, jiyong@google.com, jooyung@google.com
-per-file gen_ndk*.sh = sophiez@google.com, allenhair@google.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:4385fb887a02a6cc6b004f0d85602d205b0e41f8671b1483464661d9c37a19d9
+size 546

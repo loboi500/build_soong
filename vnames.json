@@ -1,15 +1,3 @@
-[
-  {
-    "pattern": "out/(.*)",
-    "vname": {
-      "root": "out",
-      "path": "@1@"
-    }
-  },
-  {
-    "pattern": "(.*)",
-    "vname": {
-      "path": "@1@"
-    }
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:de606c1caca1d8f46edbbe467fb752114a665ed6c296dad721360be877f1d5b2
+size 174

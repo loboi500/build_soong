@@ -1,1 +1,3 @@
-per-file dexpreopt*.go = ngeoffray@google.com,calin@google.com,mathieuc@google.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a958c4870a7431da95d1c88c1768a596b4b93f3dd1c41c4a61be74ef1fa844a
+size 83

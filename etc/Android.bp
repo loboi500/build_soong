@@ -1,20 +1,3 @@
-package {
-    default_applicable_licenses: ["Android-Apache-2.0"],
-}
-
-bootstrap_go_package {
-    name: "soong-etc",
-    pkgPath: "android/soong/etc",
-    deps: [
-        "blueprint",
-        "soong",
-        "soong-android",
-    ],
-    srcs: [
-        "prebuilt_etc.go",
-    ],
-    testSrcs: [
-        "prebuilt_etc_test.go",
-    ],
-    pluginFor: ["soong_build"],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cb176e18a6f7cd6fa652d2d116b8c4ec7b58386f706aaededa73b0c4b50691b
+size 367

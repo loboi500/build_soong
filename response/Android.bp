@@ -1,16 +1,3 @@
-package {
-    default_applicable_licenses: ["Android-Apache-2.0"],
-}
-
-bootstrap_go_package {
-    name: "soong-response",
-    pkgPath: "android/soong/response",
-    deps: [
-    ],
-    srcs: [
-        "response.go",
-    ],
-    testSrcs: [
-        "response_test.go",
-    ],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dfdd6fdb9d958b2a659c15409fd9322e55b6798dd59c50097e83e6cf376cc63
+size 274

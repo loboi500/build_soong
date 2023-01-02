@@ -1,22 +1,3 @@
-package {
-    default_applicable_licenses: ["Android-Apache-2.0"],
-}
-
-bootstrap_go_package {
-    name: "soong-kernel",
-    pkgPath: "android/soong/kernel",
-    deps: [
-        "blueprint",
-        "soong",
-        "soong-android",
-        "soong-cc",
-        "soong-cc-config",
-    ],
-    srcs: [
-        "prebuilt_kernel_modules.go",
-    ],
-    testSrcs: [
-        "prebuilt_kernel_modules_test.go",
-    ],
-    pluginFor: ["soong_build"],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cf0a6e09e4e4bfd4ecc3cd6127d6598365502ba367bbbae27d1a1d6d11b42b0
+size 442

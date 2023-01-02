@@ -1,22 +1,3 @@
-package {
-    default_applicable_licenses: ["Android-Apache-2.0"],
-}
-
-bootstrap_go_package {
-    name: "soong-linkerconfig",
-    pkgPath: "android/soong/linkerconfig",
-    deps: [
-        "blueprint",
-        "soong",
-        "soong-android",
-        "soong-cc",
-        "soong-etc",
-    ],
-    srcs: [
-        "linkerconfig.go",
-    ],
-    testSrcs: [
-        "linkerconfig_test.go",
-    ],
-    pluginFor: ["soong_build"],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:07d36c8de3e5485e022151560d77eb3cadc85a52fdf21e0971072ca17b34fe49
+size 426

@@ -1,23 +1,3 @@
-package {
-    default_applicable_licenses: ["Android-Apache-2.0"],
-}
-
-bootstrap_go_package {
-    name: "soong-sysprop",
-    pkgPath: "android/soong/sysprop",
-    deps: [
-        "blueprint",
-        "soong",
-        "soong-android",
-        "soong-cc",
-        "soong-java",
-    ],
-    srcs: [
-        "sysprop_library.go",
-        "testing.go",
-    ],
-    testSrcs: [
-        "sysprop_test.go",
-    ],
-    pluginFor: ["soong_build"],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9edc05c59dc5b3b8851a04bccddbba59c0eccc8875a04f180b40f7b05ab20852
+size 437

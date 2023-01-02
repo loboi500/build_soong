@@ -1,7 +1,3 @@
-{
-  "imports": [
-    {
-      "path": "packages/modules/SdkExtensions"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:43f57989cfcba7f4aaae49c421852315d9ef68b7bde4492be38848da991227d0
+size 82

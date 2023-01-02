@@ -1,26 +1,3 @@
-package {
-    default_applicable_licenses: ["Android-Apache-2.0"],
-}
-
-bootstrap_go_package {
-    name: "soong-rust-config",
-    pkgPath: "android/soong/rust/config",
-    deps: [
-        "soong-android",
-        "soong-cc-config",
-    ],
-    srcs: [
-        "arm_device.go",
-        "arm64_device.go",
-        "global.go",
-        "lints.go",
-        "toolchain.go",
-        "allowed_list.go",
-        "x86_darwin_host.go",
-        "x86_linux_bionic_host.go",
-        "x86_linux_host.go",
-        "x86_device.go",
-        "x86_64_device.go",
-        "arm64_linux_host.go",
-    ],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:57c1ac1f1c9c1ae0bb182cc5243d111aadbe5d9107363f58588fe0a78ccc429b
+size 581

@@ -1,22 +1,3 @@
-package {
-    default_applicable_licenses: ["Android-Apache-2.0"],
-}
-
-bootstrap_go_package {
-    name: "soong-dexpreopt",
-    pkgPath: "android/soong/dexpreopt",
-    srcs: [
-        "class_loader_context.go",
-        "config.go",
-        "dexpreopt.go",
-        "testing.go",
-    ],
-    testSrcs: [
-        "class_loader_context_test.go",
-        "dexpreopt_test.go",
-    ],
-    deps: [
-        "blueprint-pathtools",
-        "soong-android",
-    ],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec1f1d12fd3ce5b7d3f8aaeee20da81fcaf55cdb08e02116c8a04c2e36ffab48
+size 452

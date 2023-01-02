@@ -1,11 +1,3 @@
-module android/soong
-
-require github.com/golang/protobuf v0.0.0
-
-require github.com/google/blueprint v0.0.0
-
-replace github.com/golang/protobuf v0.0.0 => ../../external/golang-protobuf
-
-replace github.com/google/blueprint v0.0.0 => ../blueprint
-
-go 1.15
+version https://git-lfs.github.com/spec/v1
+oid sha256:2795b2c62fdfd261c6c91b7ca9ccd55bc0adce1e7b05075d9fa65f51ae287b3a
+size 254
